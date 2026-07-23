@@ -11,7 +11,7 @@ currentVersion: 1.0.0
 
 ![OG](/penbot.png)
 
-[Getting Started](/docs/v1/getting-started) · [GitHub](https://github.com/beyondgrayzone/penbot)
+[Getting Started](/docs/v1/getting-started) · [GitHub](https://github.com/bringyourowndeveloper/penbot)
 
 Penbot is a utility and reference codebase for building documentation sites using SvelteKit.
 

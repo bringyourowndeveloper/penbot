@@ -25,7 +25,7 @@ Site-wide settings are defined in `docs/src/lib/site-config.json`:
     "url": "https://yourwebsite.com/LICENSE"
   },
   "links": {
-    "github": "https://github.com/beyondgrayzone/penbot",
+    "github": "https://github.com/bringyourowndeveloper/penbot",
     "x": "https://x.com/penbot"
   },
   "defaultTheme": "oceanic",

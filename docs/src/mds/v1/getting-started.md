@@ -15,7 +15,7 @@ The following guide will walk you through the process of getting a Penbot projec
 Clone the Penbot repo from GitHub:
 
 ```bash
-git clone https://github.com/beyondgrayzone/penbot.git my-docs
+git clone https://github.com/bringyourowndeveloper/penbot.git my-docs
 cd my-docs
 ```
 
